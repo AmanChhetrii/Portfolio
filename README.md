@@ -15,6 +15,7 @@ The project consists of the following HTML files:
 - HTML
 - CSS
 - JavaScript
+- (could have used react here but i wanted to practice with js a bit)
 
 ## Setup Instructions
 
@@ -31,9 +32,6 @@ The project consists of the following HTML files:
 
 Navigate through the portfolio using the links in the navigation bar. Each section provides specific information about my professional journey.
 
-## Contributing
-
-If you wish to contribute to this project, feel free to fork the repository and submit a pull request.
 
 ## Reporting Issues
 
